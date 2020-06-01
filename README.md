@@ -1,4 +1,4 @@
-# **Analise exploratória e Vizualização de dados**
+# **Analise exploratória e Visualização de dados**
 
 Pedro H. N. Sobrinho (PSobrinho)
 
@@ -8,7 +8,7 @@ LinkedIn: https://www.linkedin.com/in/pedro-sobrinho-b84879108/
 
 Instagram: https://www.instagram.com/phnsobrinho/?hl=pt-br
 
-O desenvolvimento a aqui apresentado tem como objetivo estudar a análise, exploração e vizualização de dados utilizando 
+O desenvolvimento a aqui apresentado tem como objetivo estudar a análise, exploração e visualização de dados utilizando 
 recursos PyDataStack. Sendo os produtos deste estudo abertos para consulta e estudo por terceiros :)
 
 # **Sobre os dados utilizados**
